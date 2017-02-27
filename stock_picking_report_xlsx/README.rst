@@ -4,7 +4,7 @@
 
 
 =============================
-Stock Picking Rerport in XLSX
+Stock Picking Report in XLSX
 =============================
 
 This module allows you to print the Picking report in an XLSX format.
